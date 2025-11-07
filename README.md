@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python • Machine Learning • NLP • Data Analytics • Web Development (.NET / C#)**
 
-- 📫 How to reach me **yasirahmad019@gmail.com**
+- 📫 How to reach me **74424727+iyasir47@users.noreply.github.com**
 
 - ⚡ Fun fact **I love solving problems with data — and debugging feels like digital detective work 🔍**
 
